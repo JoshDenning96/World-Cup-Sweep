@@ -1,0 +1,1137 @@
+{
+  "participants": [
+    {
+      "name": "Alex",
+      "strong_team": "Belgium",
+      "underdog_team": "Canada"
+    },
+    {
+      "name": "Royce",
+      "strong_team": "Iran",
+      "underdog_team": "South Africa"
+    },
+    {
+      "name": "Chris",
+      "strong_team": "France",
+      "underdog_team": "Cape Verde"
+    },
+    {
+      "name": "Jeff",
+      "strong_team": "Colombia",
+      "underdog_team": "Scotland"
+    },
+    {
+      "name": "Clemence",
+      "strong_team": "Brazil",
+      "underdog_team": "Uzbekistan"
+    },
+    {
+      "name": "Jordan",
+      "strong_team": "Turkey",
+      "underdog_team": "Tunisia"
+    },
+    {
+      "name": "Nina",
+      "strong_team": "Ecuador",
+      "underdog_team": "Czech Republic"
+    },
+    {
+      "name": "Kelly",
+      "strong_team": "Uruguay",
+      "underdog_team": "Sweden"
+    },
+    {
+      "name": "Agnes",
+      "strong_team": "Japan",
+      "underdog_team": "Paraguay"
+    },
+    {
+      "name": "Josh",
+      "strong_team": "Argentina",
+      "underdog_team": "Australia"
+    },
+    {
+      "name": "Vinko",
+      "strong_team": "Portugal",
+      "underdog_team": "Norway"
+    },
+    {
+      "name": "Aman",
+      "strong_team": "Austria",
+      "underdog_team": "Egypt"
+    },
+    {
+      "name": "Sean",
+      "strong_team": "USA",
+      "underdog_team": "Algeria"
+    },
+    {
+      "name": "Svenja",
+      "strong_team": "England",
+      "underdog_team": "Ivory Coast"
+    },
+    {
+      "name": "Sonia",
+      "strong_team": "Netherlands",
+      "underdog_team": "South Korea"
+    },
+    {
+      "name": "Jenny",
+      "strong_team": "Spain",
+      "underdog_team": "Iraq"
+    },
+    {
+      "name": "Alison",
+      "strong_team": "Germany",
+      "underdog_team": "Jordan"
+    },
+    {
+      "name": "Lachie",
+      "strong_team": "Mexico",
+      "underdog_team": "DR Congo"
+    },
+    {
+      "name": "Esan",
+      "strong_team": "Switzerland",
+      "underdog_team": "Panama"
+    },
+    {
+      "name": "Neil",
+      "strong_team": "Croatia",
+      "underdog_team": "Bosnia and Herzegovina"
+    },
+    {
+      "name": "Gary",
+      "strong_team": "Morocco",
+      "underdog_team": "Qatar"
+    },
+    {
+      "name": "Martin",
+      "strong_team": "Senegal",
+      "underdog_team": "Saudi Arabia"
+    }
+  ],
+  "points_config": {
+    "group_win": 2,
+    "group_draw": 1,
+    "group_winner_bonus": 1,
+    "r32": 3,
+    "r16": 5,
+    "qf": 8,
+    "sf": 10,
+    "final": 15,
+    "third_place": 0,
+    "underdog_bonus": 1
+  },
+  "group_winners": [],
+  "matches": [
+    {
+      "id": 1,
+      "round": "group",
+      "date": "11/06/2026 19:00",
+      "home_team": "Mexico",
+      "away_team": "South Africa",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group A"
+    },
+    {
+      "id": 2,
+      "round": "group",
+      "date": "12/06/2026 02:00",
+      "home_team": "South Korea",
+      "away_team": "Czech Republic",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group A"
+    },
+    {
+      "id": 3,
+      "round": "group",
+      "date": "12/06/2026 19:00",
+      "home_team": "Canada",
+      "away_team": "Bosnia and Herzegovina",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group B"
+    },
+    {
+      "id": 4,
+      "round": "group",
+      "date": "13/06/2026 01:00",
+      "home_team": "USA",
+      "away_team": "Paraguay",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group D"
+    },
+    {
+      "id": 5,
+      "round": "group",
+      "date": "14/06/2026 01:00",
+      "home_team": "Haiti",
+      "away_team": "Scotland",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group C"
+    },
+    {
+      "id": 6,
+      "round": "group",
+      "date": "14/06/2026 04:00",
+      "home_team": "Australia",
+      "away_team": "Turkey",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group D"
+    },
+    {
+      "id": 7,
+      "round": "group",
+      "date": "13/06/2026 22:00",
+      "home_team": "Brazil",
+      "away_team": "Morocco",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group C"
+    },
+    {
+      "id": 8,
+      "round": "group",
+      "date": "13/06/2026 19:00",
+      "home_team": "Qatar",
+      "away_team": "Switzerland",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group B"
+    },
+    {
+      "id": 9,
+      "round": "group",
+      "date": "14/06/2026 23:00",
+      "home_team": "Ivory Coast",
+      "away_team": "Ecuador",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group E"
+    },
+    {
+      "id": 10,
+      "round": "group",
+      "date": "14/06/2026 17:00",
+      "home_team": "Germany",
+      "away_team": "Cura\u00e7ao",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group E"
+    },
+    {
+      "id": 11,
+      "round": "group",
+      "date": "14/06/2026 20:00",
+      "home_team": "Netherlands",
+      "away_team": "Japan",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group F"
+    },
+    {
+      "id": 12,
+      "round": "group",
+      "date": "15/06/2026 02:00",
+      "home_team": "Sweden",
+      "away_team": "Tunisia",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group F"
+    },
+    {
+      "id": 13,
+      "round": "group",
+      "date": "15/06/2026 22:00",
+      "home_team": "Saudi Arabia",
+      "away_team": "Uruguay",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group H"
+    },
+    {
+      "id": 14,
+      "round": "group",
+      "date": "15/06/2026 16:00",
+      "home_team": "Spain",
+      "away_team": "Cape Verde",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group H"
+    },
+    {
+      "id": 15,
+      "round": "group",
+      "date": "16/06/2026 01:00",
+      "home_team": "Iran",
+      "away_team": "New Zealand",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group G"
+    },
+    {
+      "id": 16,
+      "round": "group",
+      "date": "15/06/2026 19:00",
+      "home_team": "Belgium",
+      "away_team": "Egypt",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group G"
+    },
+    {
+      "id": 17,
+      "round": "group",
+      "date": "16/06/2026 19:00",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group I"
+    },
+    {
+      "id": 18,
+      "round": "group",
+      "date": "16/06/2026 22:00",
+      "home_team": "Iraq",
+      "away_team": "Norway",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group I"
+    },
+    {
+      "id": 19,
+      "round": "group",
+      "date": "17/06/2026 01:00",
+      "home_team": "Argentina",
+      "away_team": "Algeria",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group J"
+    },
+    {
+      "id": 20,
+      "round": "group",
+      "date": "17/06/2026 04:00",
+      "home_team": "Austria",
+      "away_team": "Jordan",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group J"
+    },
+    {
+      "id": 21,
+      "round": "group",
+      "date": "17/06/2026 23:00",
+      "home_team": "Ghana",
+      "away_team": "Panama",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group L"
+    },
+    {
+      "id": 22,
+      "round": "group",
+      "date": "17/06/2026 20:00",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group L"
+    },
+    {
+      "id": 23,
+      "round": "group",
+      "date": "17/06/2026 17:00",
+      "home_team": "Portugal",
+      "away_team": "DR Congo",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group K"
+    },
+    {
+      "id": 24,
+      "round": "group",
+      "date": "18/06/2026 02:00",
+      "home_team": "Uzbekistan",
+      "away_team": "Colombia",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group K"
+    },
+    {
+      "id": 25,
+      "round": "group",
+      "date": "18/06/2026 16:00",
+      "home_team": "Czech Republic",
+      "away_team": "South Africa",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group A"
+    },
+    {
+      "id": 26,
+      "round": "group",
+      "date": "18/06/2026 19:00",
+      "home_team": "Switzerland",
+      "away_team": "Bosnia and Herzegovina",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group B"
+    },
+    {
+      "id": 27,
+      "round": "group",
+      "date": "18/06/2026 22:00",
+      "home_team": "Canada",
+      "away_team": "Qatar",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group B"
+    },
+    {
+      "id": 28,
+      "round": "group",
+      "date": "19/06/2026 01:00",
+      "home_team": "Mexico",
+      "away_team": "South Korea",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group A"
+    },
+    {
+      "id": 29,
+      "round": "group",
+      "date": "20/06/2026 01:00",
+      "home_team": "Brazil",
+      "away_team": "Haiti",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group C"
+    },
+    {
+      "id": 30,
+      "round": "group",
+      "date": "19/06/2026 22:00",
+      "home_team": "Scotland",
+      "away_team": "Morocco",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group C"
+    },
+    {
+      "id": 31,
+      "round": "group",
+      "date": "20/06/2026 04:00",
+      "home_team": "Turkey",
+      "away_team": "Paraguay",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group D"
+    },
+    {
+      "id": 32,
+      "round": "group",
+      "date": "19/06/2026 19:00",
+      "home_team": "USA",
+      "away_team": "Australia",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group D"
+    },
+    {
+      "id": 33,
+      "round": "group",
+      "date": "20/06/2026 20:00",
+      "home_team": "Germany",
+      "away_team": "Ivory Coast",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group E"
+    },
+    {
+      "id": 34,
+      "round": "group",
+      "date": "21/06/2026 00:00",
+      "home_team": "Ecuador",
+      "away_team": "Cura\u00e7ao",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group E"
+    },
+    {
+      "id": 35,
+      "round": "group",
+      "date": "20/06/2026 17:00",
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group F"
+    },
+    {
+      "id": 36,
+      "round": "group",
+      "date": "21/06/2026 04:00",
+      "home_team": "Tunisia",
+      "away_team": "Japan",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group F"
+    },
+    {
+      "id": 37,
+      "round": "group",
+      "date": "21/06/2026 22:00",
+      "home_team": "Uruguay",
+      "away_team": "Cape Verde",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group H"
+    },
+    {
+      "id": 38,
+      "round": "group",
+      "date": "21/06/2026 16:00",
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group H"
+    },
+    {
+      "id": 39,
+      "round": "group",
+      "date": "21/06/2026 19:00",
+      "home_team": "Belgium",
+      "away_team": "Iran",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group G"
+    },
+    {
+      "id": 40,
+      "round": "group",
+      "date": "22/06/2026 01:00",
+      "home_team": "New Zealand",
+      "away_team": "Egypt",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group G"
+    },
+    {
+      "id": 41,
+      "round": "group",
+      "date": "23/06/2026 00:00",
+      "home_team": "Norway",
+      "away_team": "Senegal",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group I"
+    },
+    {
+      "id": 42,
+      "round": "group",
+      "date": "22/06/2026 21:00",
+      "home_team": "France",
+      "away_team": "Iraq",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group I"
+    },
+    {
+      "id": 43,
+      "round": "group",
+      "date": "22/06/2026 17:00",
+      "home_team": "Argentina",
+      "away_team": "Austria",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group J"
+    },
+    {
+      "id": 44,
+      "round": "group",
+      "date": "23/06/2026 03:00",
+      "home_team": "Jordan",
+      "away_team": "Algeria",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group J"
+    },
+    {
+      "id": 45,
+      "round": "group",
+      "date": "23/06/2026 20:00",
+      "home_team": "England",
+      "away_team": "Ghana",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group L"
+    },
+    {
+      "id": 46,
+      "round": "group",
+      "date": "23/06/2026 23:00",
+      "home_team": "Panama",
+      "away_team": "Croatia",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group L"
+    },
+    {
+      "id": 47,
+      "round": "group",
+      "date": "23/06/2026 17:00",
+      "home_team": "Portugal",
+      "away_team": "Uzbekistan",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group K"
+    },
+    {
+      "id": 48,
+      "round": "group",
+      "date": "24/06/2026 02:00",
+      "home_team": "Colombia",
+      "away_team": "DR Congo",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group K"
+    },
+    {
+      "id": 49,
+      "round": "group",
+      "date": "24/06/2026 22:00",
+      "home_team": "Scotland",
+      "away_team": "Brazil",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group C"
+    },
+    {
+      "id": 50,
+      "round": "group",
+      "date": "24/06/2026 22:00",
+      "home_team": "Morocco",
+      "away_team": "Haiti",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group C"
+    },
+    {
+      "id": 51,
+      "round": "group",
+      "date": "24/06/2026 19:00",
+      "home_team": "Switzerland",
+      "away_team": "Canada",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group B"
+    },
+    {
+      "id": 52,
+      "round": "group",
+      "date": "24/06/2026 19:00",
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group B"
+    },
+    {
+      "id": 53,
+      "round": "group",
+      "date": "25/06/2026 01:00",
+      "home_team": "Czech Republic",
+      "away_team": "Mexico",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group A"
+    },
+    {
+      "id": 54,
+      "round": "group",
+      "date": "25/06/2026 01:00",
+      "home_team": "South Africa",
+      "away_team": "South Korea",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group A"
+    },
+    {
+      "id": 55,
+      "round": "group",
+      "date": "25/06/2026 20:00",
+      "home_team": "Cura\u00e7ao",
+      "away_team": "Ivory Coast",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group E"
+    },
+    {
+      "id": 56,
+      "round": "group",
+      "date": "25/06/2026 20:00",
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group E"
+    },
+    {
+      "id": 57,
+      "round": "group",
+      "date": "25/06/2026 23:00",
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group F"
+    },
+    {
+      "id": 58,
+      "round": "group",
+      "date": "25/06/2026 23:00",
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group F"
+    },
+    {
+      "id": 59,
+      "round": "group",
+      "date": "26/06/2026 02:00",
+      "home_team": "Turkey",
+      "away_team": "USA",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group D"
+    },
+    {
+      "id": 60,
+      "round": "group",
+      "date": "26/06/2026 02:00",
+      "home_team": "Paraguay",
+      "away_team": "Australia",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group D"
+    },
+    {
+      "id": 61,
+      "round": "group",
+      "date": "26/06/2026 19:00",
+      "home_team": "Norway",
+      "away_team": "France",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group I"
+    },
+    {
+      "id": 62,
+      "round": "group",
+      "date": "26/06/2026 19:00",
+      "home_team": "Senegal",
+      "away_team": "Iraq",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group I"
+    },
+    {
+      "id": 63,
+      "round": "group",
+      "date": "27/06/2026 03:00",
+      "home_team": "Egypt",
+      "away_team": "Iran",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group G"
+    },
+    {
+      "id": 64,
+      "round": "group",
+      "date": "27/06/2026 03:00",
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group G"
+    },
+    {
+      "id": 65,
+      "round": "group",
+      "date": "27/06/2026 00:00",
+      "home_team": "Cape Verde",
+      "away_team": "Saudi Arabia",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group H"
+    },
+    {
+      "id": 66,
+      "round": "group",
+      "date": "27/06/2026 00:00",
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group H"
+    },
+    {
+      "id": 67,
+      "round": "group",
+      "date": "27/06/2026 21:00",
+      "home_team": "Panama",
+      "away_team": "England",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group L"
+    },
+    {
+      "id": 68,
+      "round": "group",
+      "date": "27/06/2026 21:00",
+      "home_team": "Croatia",
+      "away_team": "Ghana",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group L"
+    },
+    {
+      "id": 69,
+      "round": "group",
+      "date": "28/06/2026 02:00",
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group J"
+    },
+    {
+      "id": 70,
+      "round": "group",
+      "date": "28/06/2026 02:00",
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group J"
+    },
+    {
+      "id": 71,
+      "round": "group",
+      "date": "27/06/2026 23:30",
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group K"
+    },
+    {
+      "id": 72,
+      "round": "group",
+      "date": "27/06/2026 23:30",
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
+      "home_score": null,
+      "away_score": null,
+      "group": "Group K"
+    },
+    {
+      "id": 73,
+      "round": "r32",
+      "date": "28/06/2026 19:00",
+      "home_team": "2A",
+      "away_team": "2B",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 74,
+      "round": "r32",
+      "date": "29/06/2026 20:30",
+      "home_team": "1E",
+      "away_team": "3ABCDF",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 75,
+      "round": "r32",
+      "date": "30/06/2026 01:00",
+      "home_team": "1F",
+      "away_team": "2C",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 76,
+      "round": "r32",
+      "date": "29/06/2026 17:00",
+      "home_team": "1C",
+      "away_team": "2F",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 77,
+      "round": "r32",
+      "date": "30/06/2026 21:00",
+      "home_team": "1I",
+      "away_team": "3CDFGH",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 78,
+      "round": "r32",
+      "date": "30/06/2026 17:00",
+      "home_team": "2E",
+      "away_team": "2I",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 79,
+      "round": "r32",
+      "date": "01/07/2026 01:00",
+      "home_team": "1A",
+      "away_team": "3CEFHI",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 80,
+      "round": "r32",
+      "date": "01/07/2026 16:00",
+      "home_team": "1L",
+      "away_team": "3EHIJK",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 81,
+      "round": "r32",
+      "date": "02/07/2026 00:00",
+      "home_team": "1D",
+      "away_team": "3BEFIJ",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 82,
+      "round": "r32",
+      "date": "01/07/2026 20:00",
+      "home_team": "1G",
+      "away_team": "3AEHIJ",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 83,
+      "round": "r32",
+      "date": "02/07/2026 23:00",
+      "home_team": "2K",
+      "away_team": "2L",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 84,
+      "round": "r32",
+      "date": "02/07/2026 19:00",
+      "home_team": "1H",
+      "away_team": "2J",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 85,
+      "round": "r32",
+      "date": "03/07/2026 03:00",
+      "home_team": "1B",
+      "away_team": "3EFGIJ",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 86,
+      "round": "r32",
+      "date": "03/07/2026 22:00",
+      "home_team": "1J",
+      "away_team": "2H",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 87,
+      "round": "r32",
+      "date": "04/07/2026 01:30",
+      "home_team": "1K",
+      "away_team": "3DEIJL",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 88,
+      "round": "r32",
+      "date": "03/07/2026 18:00",
+      "home_team": "2D",
+      "away_team": "2G",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 89,
+      "round": "r16",
+      "date": "04/07/2026 21:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 90,
+      "round": "r16",
+      "date": "04/07/2026 17:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 91,
+      "round": "r16",
+      "date": "05/07/2026 20:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 92,
+      "round": "r16",
+      "date": "06/07/2026 00:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 93,
+      "round": "r16",
+      "date": "06/07/2026 19:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 94,
+      "round": "r16",
+      "date": "07/07/2026 00:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 95,
+      "round": "r16",
+      "date": "07/07/2026 16:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 96,
+      "round": "r16",
+      "date": "07/07/2026 20:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 97,
+      "round": "qf",
+      "date": "09/07/2026 20:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 98,
+      "round": "qf",
+      "date": "10/07/2026 19:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 99,
+      "round": "qf",
+      "date": "11/07/2026 21:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 100,
+      "round": "qf",
+      "date": "12/07/2026 01:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 101,
+      "round": "sf",
+      "date": "14/07/2026 19:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 102,
+      "round": "sf",
+      "date": "15/07/2026 19:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 103,
+      "round": "third_place",
+      "date": "18/07/2026 21:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "id": 104,
+      "round": "final",
+      "date": "19/07/2026 19:00",
+      "home_team": "To be announced",
+      "away_team": "To be announced",
+      "home_score": null,
+      "away_score": null
+    }
+  ]
+}
