@@ -141,8 +141,8 @@
       "date": "12/06/2026 02:00",
       "home_team": "South Korea",
       "away_team": "Czech Republic",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 1,
       "group": "Group A"
     },
     {
