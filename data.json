@@ -221,8 +221,8 @@
       "date": "14/06/2026 17:00",
       "home_team": "Germany",
       "away_team": "Cura\u00e7ao",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 7,
+      "away_score": 1,
       "group": "Group E"
     },
     {
@@ -231,8 +231,8 @@
       "date": "14/06/2026 20:00",
       "home_team": "Netherlands",
       "away_team": "Japan",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 2,
       "group": "Group F"
     },
     {
