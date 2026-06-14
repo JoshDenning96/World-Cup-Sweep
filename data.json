@@ -191,8 +191,8 @@
       "date": "13/06/2026 22:00",
       "home_team": "Brazil",
       "away_team": "Morocco",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 1,
       "group": "Group C"
     },
     {
@@ -201,8 +201,8 @@
       "date": "13/06/2026 19:00",
       "home_team": "Qatar",
       "away_team": "Switzerland",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 1,
       "group": "Group B"
     },
     {
