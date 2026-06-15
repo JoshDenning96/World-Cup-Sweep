@@ -261,8 +261,8 @@
       "date": "15/06/2026 16:00",
       "home_team": "Spain",
       "away_team": "Cape Verde",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "group": "Group H"
     },
     {
@@ -279,8 +279,8 @@
       "id": 16,
       "round": "group",
       "date": "15/06/2026 19:00",
-      "home_team": "Belgium",
-      "away_team": "Egypt",
+      "home_team": "1",
+      "away_team": "1",
       "home_score": null,
       "away_score": null,
       "group": "Group G"
