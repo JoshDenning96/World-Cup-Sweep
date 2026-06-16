@@ -251,8 +251,8 @@
       "date": "15/06/2026 22:00",
       "home_team": "Saudi Arabia",
       "away_team": "Uruguay",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 1,
       "group": "Group H"
     },
     {
