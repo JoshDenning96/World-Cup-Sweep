@@ -271,8 +271,8 @@
       "date": "16/06/2026 01:00",
       "home_team": "Iran",
       "away_team": "New Zealand",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 2,
       "group": "Group G"
     },
     {
