@@ -279,10 +279,10 @@
       "id": 16,
       "round": "group",
       "date": "15/06/2026 19:00",
-      "home_team": "1",
-      "away_team": "1",
-      "home_score": null,
-      "away_score": null,
+      "home_team": "Belgium",
+      "away_team": "Egypt",
+      "home_score": 1,
+      "away_score": 1,
       "group": "Group G"
     },
     {
@@ -291,8 +291,8 @@
       "date": "16/06/2026 19:00",
       "home_team": "France",
       "away_team": "Senegal",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 3,
+      "away_score": 1,
       "group": "Group I"
     },
     {
@@ -301,8 +301,8 @@
       "date": "16/06/2026 22:00",
       "home_team": "Iraq",
       "away_team": "Norway",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 4,
       "group": "Group I"
     },
     {
