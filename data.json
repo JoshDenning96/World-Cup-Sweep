@@ -341,8 +341,8 @@
       "date": "17/06/2026 20:00",
       "home_team": "England",
       "away_team": "Croatia",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 4,
+      "away_score": 2,
       "group": "Group L"
     },
     {
@@ -351,8 +351,8 @@
       "date": "17/06/2026 17:00",
       "home_team": "Portugal",
       "away_team": "DR Congo",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 1,
       "group": "Group K"
     },
     {
