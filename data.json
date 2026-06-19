@@ -441,8 +441,8 @@
       "date": "19/06/2026 19:00",
       "home_team": "USA",
       "away_team": "Australia",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 0,
       "group": "Group D"
     },
     {
