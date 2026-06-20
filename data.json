@@ -451,8 +451,8 @@
       "date": "20/06/2026 20:00",
       "home_team": "Germany",
       "away_team": "Ivory Coast",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 1,
       "group": "Group E"
     },
     {
@@ -471,8 +471,8 @@
       "date": "20/06/2026 17:00",
       "home_team": "Netherlands",
       "away_team": "Sweden",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 5,
+      "away_score": 1,
       "group": "Group F"
     },
     {
