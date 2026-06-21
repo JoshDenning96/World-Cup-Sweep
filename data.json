@@ -481,8 +481,8 @@
       "date": "21/06/2026 04:00",
       "home_team": "Tunisia",
       "away_team": "Japan",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 4,
       "group": "Group F"
     },
     {
