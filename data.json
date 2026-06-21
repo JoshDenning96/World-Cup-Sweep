@@ -501,8 +501,8 @@
       "date": "21/06/2026 16:00",
       "home_team": "Spain",
       "away_team": "Saudi Arabia",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 4,
+      "away_score": 0,
       "group": "Group H"
     },
     {
@@ -511,8 +511,8 @@
       "date": "21/06/2026 19:00",
       "home_team": "Belgium",
       "away_team": "Iran",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "group": "Group G"
     },
     {
