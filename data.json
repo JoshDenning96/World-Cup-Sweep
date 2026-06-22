@@ -491,8 +491,8 @@
       "date": "21/06/2026 22:00",
       "home_team": "Uruguay",
       "away_team": "Cape Verde",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 2,
       "group": "Group H"
     },
     {
