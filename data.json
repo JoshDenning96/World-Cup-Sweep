@@ -123,7 +123,7 @@
     "third_place": 0,
     "underdog_bonus": 1
   },
-  "group_winners": ["Mexico", "Switzerland", "Brazil"],
+  "group_winners": ["Mexico", "Switzerland", "Brazil", "Germany"],
   "matches": [
     {
       "id": 1,
@@ -671,8 +671,8 @@
       "date": "25/06/2026 20:00",
       "home_team": "Cura\u00e7ao",
       "away_team": "Ivory Coast",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 2,
       "group": "Group E"
     },
     {
@@ -681,8 +681,8 @@
       "date": "25/06/2026 20:00",
       "home_team": "Ecuador",
       "away_team": "Germany",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 1,
       "group": "Group E"
     },
     {
