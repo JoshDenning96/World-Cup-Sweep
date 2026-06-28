@@ -123,7 +123,7 @@
     "third_place": 0,
     "underdog_bonus": 1
   },
-  "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","England"],
+  "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","Argentina", "Colombia","England"],
   "matches": [
     {
       "id": 1,
@@ -811,8 +811,8 @@
       "date": "28/06/2026 02:00",
       "home_team": "Algeria",
       "away_team": "Austria",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 3,
+      "away_score": 3,
       "group": "Group J"
     },
     {
@@ -821,8 +821,8 @@
       "date": "28/06/2026 02:00",
       "home_team": "Jordan",
       "away_team": "Argentina",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 3,
       "group": "Group J"
     },
     {
@@ -831,8 +831,8 @@
       "date": "27/06/2026 23:30",
       "home_team": "Colombia",
       "away_team": "Portugal",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "group": "Group K"
     },
     {
@@ -841,16 +841,16 @@
       "date": "27/06/2026 23:30",
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 3,
+      "away_score": 1,
       "group": "Group K"
     },
     {
       "id": 73,
       "round": "r32",
       "date": "28/06/2026 19:00",
-      "home_team": "2A",
-      "away_team": "2B",
+      "home_team": "South Africa",
+      "away_team": "Canada",
       "home_score": null,
       "away_score": null
     },
@@ -858,8 +858,8 @@
       "id": 74,
       "round": "r32",
       "date": "29/06/2026 20:30",
-      "home_team": "1E",
-      "away_team": "3ABCDF",
+      "home_team": "Germany",
+      "away_team": "Paraguay",
       "home_score": null,
       "away_score": null
     },
@@ -867,8 +867,8 @@
       "id": 75,
       "round": "r32",
       "date": "30/06/2026 01:00",
-      "home_team": "1F",
-      "away_team": "2C",
+      "home_team": "Netherlands",
+      "away_team": "Morocco",
       "home_score": null,
       "away_score": null
     },
@@ -876,8 +876,8 @@
       "id": 76,
       "round": "r32",
       "date": "29/06/2026 17:00",
-      "home_team": "1C",
-      "away_team": "2F",
+      "home_team": "Brazil",
+      "away_team": "Japan",
       "home_score": null,
       "away_score": null
     },
@@ -885,8 +885,8 @@
       "id": 77,
       "round": "r32",
       "date": "30/06/2026 21:00",
-      "home_team": "1I",
-      "away_team": "3CDFGH",
+      "home_team": "France",
+      "away_team": "Sweden",
       "home_score": null,
       "away_score": null
     },
@@ -894,8 +894,8 @@
       "id": 78,
       "round": "r32",
       "date": "30/06/2026 17:00",
-      "home_team": "2E",
-      "away_team": "2I",
+      "home_team": "Ivory Coast",
+      "away_team": "Norway",
       "home_score": null,
       "away_score": null
     },
@@ -903,8 +903,8 @@
       "id": 79,
       "round": "r32",
       "date": "01/07/2026 01:00",
-      "home_team": "1A",
-      "away_team": "3CEFHI",
+      "home_team": "Mexico",
+      "away_team": "Ecuador",
       "home_score": null,
       "away_score": null
     },
@@ -912,8 +912,8 @@
       "id": 80,
       "round": "r32",
       "date": "01/07/2026 16:00",
-      "home_team": "1L",
-      "away_team": "3EHIJK",
+      "home_team": "England",
+      "away_team": "DR Congo",
       "home_score": null,
       "away_score": null
     },
@@ -921,8 +921,8 @@
       "id": 81,
       "round": "r32",
       "date": "02/07/2026 00:00",
-      "home_team": "1D",
-      "away_team": "3BEFIJ",
+      "home_team": "USA",
+      "away_team": "Bosnia and Herzegovina",
       "home_score": null,
       "away_score": null
     },
@@ -930,8 +930,8 @@
       "id": 82,
       "round": "r32",
       "date": "01/07/2026 20:00",
-      "home_team": "1G",
-      "away_team": "3AEHIJ",
+      "home_team": "Belgium",
+      "away_team": "Senegal",
       "home_score": null,
       "away_score": null
     },
@@ -939,8 +939,8 @@
       "id": 83,
       "round": "r32",
       "date": "02/07/2026 23:00",
-      "home_team": "2K",
-      "away_team": "2L",
+      "home_team": "Portugal",
+      "away_team": "Croatia",
       "home_score": null,
       "away_score": null
     },
@@ -948,8 +948,8 @@
       "id": 84,
       "round": "r32",
       "date": "02/07/2026 19:00",
-      "home_team": "1H",
-      "away_team": "2J",
+      "home_team": "Spain",
+      "away_team": "Austria",
       "home_score": null,
       "away_score": null
     },
@@ -957,8 +957,8 @@
       "id": 85,
       "round": "r32",
       "date": "03/07/2026 03:00",
-      "home_team": "1B",
-      "away_team": "3EFGIJ",
+      "home_team": "Switzerland",
+      "away_team": "Algeria",
       "home_score": null,
       "away_score": null
     },
@@ -966,8 +966,8 @@
       "id": 86,
       "round": "r32",
       "date": "03/07/2026 22:00",
-      "home_team": "1J",
-      "away_team": "2H",
+      "home_team": "Argentina",
+      "away_team": "Cape Verde",
       "home_score": null,
       "away_score": null
     },
@@ -975,8 +975,8 @@
       "id": 87,
       "round": "r32",
       "date": "04/07/2026 01:30",
-      "home_team": "1K",
-      "away_team": "3DEIJL",
+      "home_team": "Colombia",
+      "away_team": "Ghana",
       "home_score": null,
       "away_score": null
     },
@@ -984,8 +984,8 @@
       "id": 88,
       "round": "r32",
       "date": "03/07/2026 18:00",
-      "home_team": "2D",
-      "away_team": "2G",
+      "home_team": "Australia",
+      "away_team": "Egypt",
       "home_score": null,
       "away_score": null
     },
