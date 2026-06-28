@@ -124,6 +124,7 @@
     "underdog_bonus": 1
   },
   "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","Argentina", "Colombia","England"],
+  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama"],
   "matches": [
     {
       "id": 1,

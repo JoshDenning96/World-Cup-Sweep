@@ -40,7 +40,7 @@ function flag(team) {
 
 // ── Points calculation ───────────────────────────────────────────────────────
 function calculateStandings(data) {
-  const { participants, matches, group_winners, points_config: pts } = data;
+  const { participants, matches, group_winners, eliminated = [], points_config: pts } = data;
 
   const teamOwner = {};
   const strongTeams = new Set();
@@ -119,8 +119,15 @@ function getRecentResults(data) {
 }
 
 // ── Render helpers ───────────────────────────────────────────────────────────
+function teamLabel(name, flag, eliminated) {
+  const out = eliminated.includes(name)
+    ? `<s style="opacity:0.45">${flag}${name}</s>`
+    : `${flag}${name}`;
+  return out;
+}
+
 function renderLeaderboard(standings, data) {
-  const { participants } = data;
+  const { participants, eliminated = [] } = data;
   const teamOwner = {};
   for (const p of participants) {
     teamOwner[p.strong_team] = p;
@@ -172,8 +179,8 @@ function renderLeaderboard(standings, data) {
       <td>${rankCell}</td>
       <td class="name-cell">${p.name}</td>
       <td class="teams-cell">
-        <span class="team-strong">${flag(p.strong_team)}${p.strong_team}</span><br>
-        <span class="team-underdog">${flag(p.underdog_team)}${p.underdog_team}</span>
+        <span class="team-strong">${teamLabel(p.strong_team, flag(p.strong_team), eliminated)}</span><br>
+        <span class="team-underdog">${teamLabel(p.underdog_team, flag(p.underdog_team), eliminated)}</span>
       </td>
       <td class="pts-total">${total}</td>
       <td class="pts-breakdown">${breakdown || '—'}</td>
