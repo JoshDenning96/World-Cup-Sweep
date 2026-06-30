@@ -861,8 +861,9 @@
       "date": "29/06/2026 20:30",
       "home_team": "Germany",
       "away_team": "Paraguay",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 1,
+      "winner": "away"
     },
     {
       "id": 75,
@@ -870,8 +871,9 @@
       "date": "30/06/2026 01:00",
       "home_team": "Netherlands",
       "away_team": "Morocco",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 1,
+      "winner": "away"
     },
     {
       "id": 76,
@@ -879,8 +881,8 @@
       "date": "29/06/2026 17:00",
       "home_team": "Brazil",
       "away_team": "Japan",
-      "home_score": null,
-      "away_score": null
+      "home_score": 2,
+      "away_score": 1
     },
     {
       "id": 77,
