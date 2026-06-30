@@ -51,6 +51,9 @@ function calculateStandings(data) {
     teamOwner[p.underdog_team] = { p, type: 'underdog' };
     strongTeams.add(p.strong_team);
     underdogTeams.add(p.underdog_team);
+    for (const t of (p.knockout_teams || [])) {
+      teamOwner[t] = { p, type: 'knockout_only' };
+    }
   }
 
   const scores = {};
@@ -76,10 +79,10 @@ function calculateStandings(data) {
     const awayEntry = teamOwner[match.away_team];
 
     if (match.round === 'group') {
-      if (homeEntry) {
+      if (homeEntry && homeEntry.type !== 'knockout_only') {
         addPts(homeEntry.p.name, homeWin ? pts.group_win : draw ? pts.group_draw : 0, 'group');
       }
-      if (awayEntry) {
+      if (awayEntry && awayEntry.type !== 'knockout_only') {
         addPts(awayEntry.p.name, awayWin ? pts.group_win : draw ? pts.group_draw : 0, 'group');
       }
     } else {
@@ -105,7 +108,7 @@ function calculateStandings(data) {
   if (gwBonus > 0 && group_winners) {
     for (const team of group_winners) {
       const entry = teamOwner[team];
-      if (entry) addPts(entry.p.name, gwBonus, 'bonuses');
+      if (entry && entry.type !== 'knockout_only') addPts(entry.p.name, gwBonus, 'bonuses');
     }
   }
 
@@ -175,12 +178,16 @@ function renderLeaderboard(standings, data) {
       bonuses ? `${bonuses} bonus` : '',
     ].filter(Boolean).join(' · ');
 
+    const koTeamsHtml = (p.knockout_teams || []).map(t =>
+      `<br><span class="team-knockout">${teamLabel(t, flag(t), eliminated)}</span>`
+    ).join('');
+
     tr.innerHTML = `
       <td>${rankCell}</td>
       <td class="name-cell">${p.name}</td>
       <td class="teams-cell">
         <span class="team-strong">${teamLabel(p.strong_team, flag(p.strong_team), eliminated)}</span><br>
-        <span class="team-underdog">${teamLabel(p.underdog_team, flag(p.underdog_team), eliminated)}</span>
+        <span class="team-underdog">${teamLabel(p.underdog_team, flag(p.underdog_team), eliminated)}</span>${koTeamsHtml}
       </td>
       <td class="pts-total">${total}</td>
       <td class="pts-breakdown">${breakdown || '—'}</td>

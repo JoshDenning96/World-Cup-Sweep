@@ -166,6 +166,11 @@ h2 {
   color: #88aacc;
 }
 
+.team-knockout {
+  color: #88cc99;
+  font-size: 12px;
+}
+
 .pts-total {
   font-size: 22px;
   font-weight: 700;

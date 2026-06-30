@@ -28,7 +28,8 @@
     {
       "name": "Jordan",
       "strong_team": "Turkey",
-      "underdog_team": "Tunisia"
+      "underdog_team": "Tunisia",
+      "knockout_teams": ["Ghana"]
     },
     {
       "name": "Nina",
