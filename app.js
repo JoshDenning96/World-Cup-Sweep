@@ -69,9 +69,9 @@ function calculateStandings(data) {
 
     const hs = match.home_score;
     const as = match.away_score;
-    const homeWin = hs > as;
-    const awayWin = as > hs;
-    const draw = hs === as;
+    const homeWin = match.winner ? match.winner === 'home' : hs > as;
+    const awayWin = match.winner ? match.winner === 'away' : as > hs;
+    const draw = !match.winner && hs === as;
     const homeEntry = teamOwner[match.home_team];
     const awayEntry = teamOwner[match.away_team];
 
