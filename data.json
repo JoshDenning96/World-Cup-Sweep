@@ -125,7 +125,7 @@
     "underdog_bonus": 1
   },
   "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","Argentina", "Colombia","England"],
-  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands"],
+  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden"],
   "matches": [
     {
       "id": 1,
@@ -891,8 +891,8 @@
       "date": "30/06/2026 21:00",
       "home_team": "France",
       "away_team": "Sweden",
-      "home_score": null,
-      "away_score": null
+      "home_score": 3,
+      "away_score": 0
     },
     {
       "id": 78,
@@ -900,8 +900,8 @@
       "date": "30/06/2026 17:00",
       "home_team": "Ivory Coast",
       "away_team": "Norway",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 2
     },
     {
       "id": 79,
