@@ -125,7 +125,7 @@
     "underdog_bonus": 1
   },
   "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","Argentina", "Colombia","England"],
-  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria"],
+  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana"],
   "matches": [
     {
       "id": 1,
@@ -972,8 +972,8 @@
       "date": "03/07/2026 22:00",
       "home_team": "Argentina",
       "away_team": "Cape Verde",
-      "home_score": null,
-      "away_score": null
+      "home_score": 3,
+      "away_score": 2
     },
     {
       "id": 87,
@@ -981,8 +981,8 @@
       "date": "04/07/2026 01:30",
       "home_team": "Colombia",
       "away_team": "Ghana",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 0
     },
     {
       "id": 88,
@@ -990,15 +990,16 @@
       "date": "03/07/2026 18:00",
       "home_team": "Australia",
       "away_team": "Egypt",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 1,
+      "winner": "away"
     },
     {
       "id": 89,
       "round": "r16",
       "date": "04/07/2026 21:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Canada",
+      "away_team": "Morocco",
       "home_score": null,
       "away_score": null
     },
@@ -1006,8 +1007,8 @@
       "id": 90,
       "round": "r16",
       "date": "04/07/2026 17:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Paraguay",
+      "away_team": "France",
       "home_score": null,
       "away_score": null
     },
@@ -1015,8 +1016,8 @@
       "id": 91,
       "round": "r16",
       "date": "05/07/2026 20:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Brazil",
+      "away_team": "Norway",
       "home_score": null,
       "away_score": null
     },
@@ -1024,8 +1025,8 @@
       "id": 92,
       "round": "r16",
       "date": "06/07/2026 00:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Mexico",
+      "away_team": "England",
       "home_score": null,
       "away_score": null
     },
@@ -1033,8 +1034,8 @@
       "id": 93,
       "round": "r16",
       "date": "06/07/2026 19:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Portugal",
+      "away_team": "Spain",
       "home_score": null,
       "away_score": null
     },
@@ -1042,8 +1043,8 @@
       "id": 94,
       "round": "r16",
       "date": "07/07/2026 00:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "USA",
+      "away_team": "Belgium",
       "home_score": null,
       "away_score": null
     },
@@ -1051,8 +1052,8 @@
       "id": 95,
       "round": "r16",
       "date": "07/07/2026 16:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Argentina",
+      "away_team": "Egypt",
       "home_score": null,
       "away_score": null
     },
@@ -1060,8 +1061,8 @@
       "id": 96,
       "round": "r16",
       "date": "07/07/2026 20:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Switzerland",
+      "away_team": "Colombia",
       "home_score": null,
       "away_score": null
     },
