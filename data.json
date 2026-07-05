@@ -125,7 +125,7 @@
     "underdog_bonus": 1
   },
   "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","Argentina", "Colombia","England"],
-  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana"],
+  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana", "Canada", "Paraguay"],
   "matches": [
     {
       "id": 1,
@@ -1000,8 +1000,8 @@
       "date": "04/07/2026 21:00",
       "home_team": "Canada",
       "away_team": "Morocco",
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 3
     },
     {
       "id": 90,
@@ -1009,8 +1009,8 @@
       "date": "04/07/2026 17:00",
       "home_team": "Paraguay",
       "away_team": "France",
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 1
     },
     {
       "id": 91,
