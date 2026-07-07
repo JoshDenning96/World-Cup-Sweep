@@ -125,7 +125,7 @@
     "underdog_bonus": 1
   },
   "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","Argentina", "Colombia","England"],
-  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA"],
+  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia"],
   "matches": [
     {
       "id": 1,
@@ -1054,8 +1054,8 @@
       "date": "07/07/2026 16:00",
       "home_team": "Argentina",
       "away_team": "Egypt",
-      "home_score": null,
-      "away_score": null
+      "home_score": 3,
+      "away_score": 2
     },
     {
       "id": 96,
@@ -1063,15 +1063,16 @@
       "date": "07/07/2026 20:00",
       "home_team": "Switzerland",
       "away_team": "Colombia",
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0,
+      "winner": "home"
     },
     {
       "id": 97,
       "round": "qf",
       "date": "09/07/2026 20:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "France",
+      "away_team": "Morocco",
       "home_score": null,
       "away_score": null
     },
@@ -1079,8 +1080,8 @@
       "id": 98,
       "round": "qf",
       "date": "10/07/2026 19:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Spain",
+      "away_team": "Belgium",
       "home_score": null,
       "away_score": null
     },
@@ -1088,8 +1089,8 @@
       "id": 99,
       "round": "qf",
       "date": "11/07/2026 21:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Norway",
+      "away_team": "England",
       "home_score": null,
       "away_score": null
     },
@@ -1097,8 +1098,8 @@
       "id": 100,
       "round": "qf",
       "date": "12/07/2026 01:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Argentina",
+      "away_team": "Switzerland",
       "home_score": null,
       "away_score": null
     },
