@@ -125,7 +125,7 @@
     "underdog_bonus": 1
   },
   "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","Argentina", "Colombia","England"],
-  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia"],
+  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco"],
   "matches": [
     {
       "id": 1,
@@ -1073,8 +1073,8 @@
       "date": "09/07/2026 20:00",
       "home_team": "France",
       "away_team": "Morocco",
-      "home_score": null,
-      "away_score": null
+      "home_score": 2,
+      "away_score": 0
     },
     {
       "id": 98,
