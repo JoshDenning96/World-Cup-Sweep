@@ -125,7 +125,7 @@
     "underdog_bonus": 1
   },
   "group_winners": ["Mexico", "Switzerland", "Brazil", "USA", "Germany", "Netherlands", "Belgium", "Spain","France","Argentina", "Colombia","England"],
-  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco", "Belgium", "Norway", "Switzerland"],
+  "eliminated": ["South Korea", "Czech Republic", "Qatar", "Scotland", "Haiti", "Turkey", "Curaçao", "Tunisia", "Iran", "New Zealand", "Uruguay", "Saudi Arabia", "Iraq", "Jordan", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia and Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Cape Verde", "Ghana", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco", "Belgium", "Norway", "Switzerland", "France", "England"],
   "matches": [
     {
       "id": 1,
@@ -1109,8 +1109,8 @@
       "date": "14/07/2026 19:00",
       "home_team": "France",
       "away_team": "Spain",
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 2
     },
     {
       "id": 102,
@@ -1118,15 +1118,15 @@
       "date": "15/07/2026 19:00",
       "home_team": "England",
       "away_team": "Argentina",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 2
     },
     {
       "id": 103,
       "round": "third_place",
       "date": "18/07/2026 21:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "France",
+      "away_team": "England",
       "home_score": null,
       "away_score": null
     },
@@ -1134,8 +1134,8 @@
       "id": 104,
       "round": "final",
       "date": "19/07/2026 19:00",
-      "home_team": "To be announced",
-      "away_team": "To be announced",
+      "home_team": "Spain",
+      "away_team": "Argentina",
       "home_score": null,
       "away_score": null
     }
