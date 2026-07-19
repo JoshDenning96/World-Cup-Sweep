@@ -1127,8 +1127,8 @@
       "date": "18/07/2026 21:00",
       "home_team": "France",
       "away_team": "England",
-      "home_score": null,
-      "away_score": null
+      "home_score": 4,
+      "away_score": 6
     },
     {
       "id": 104,
